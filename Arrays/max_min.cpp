@@ -33,3 +33,27 @@ int main() {
   
     return 0;
 }
+// #include<iostream>
+// using namespace std;
+
+// int getMax(int num[], int n){
+//     int max= INT_MIN;
+//     for(int i=0; i<n; i++){
+//         if(max<num[i]){
+//             max= num[i];
+//         }
+//     }
+//     return max;
+// }
+
+// int main () {
+//     int size;
+//     cin >> size;
+//     int num[100];
+    
+//     fof(int i=0; i<n; i++){
+//         cin >> num[i];
+//     }
+    
+//     return 0;
+// }
