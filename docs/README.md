@@ -5,6 +5,8 @@ Concept notes on DSA fundamentals — one file (or folder) per topic as we cover
 ## Covered so far
 - [Recursion](recursion.md)
 - [Time & Space Complexity](complexity.md)
+- [Hashing](hashing.md)
+- [STL: map vs unordered_map](stl/map_and_unordered_map.md)
 
 ## Planned coverage (grows over time, not fixed)
 - Arrays & Strings
@@ -13,7 +15,6 @@ Concept notes on DSA fundamentals — one file (or folder) per topic as we cover
 - Stacks & Queues
 - Trees & Binary Search Trees
 - Heaps & Priority Queues
-- Hashing
 - Graphs (BFS/DFS, shortest paths, MST)
 - Sorting & Searching
 - Dynamic Programming
