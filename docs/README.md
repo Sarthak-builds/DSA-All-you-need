@@ -4,9 +4,9 @@ Concept notes on DSA fundamentals — one file (or folder) per topic as we cover
 
 ## Covered so far
 - [Recursion](recursion.md)
+- [Time & Space Complexity](complexity.md)
 
 ## Planned coverage (grows over time, not fixed)
-- Complexity analysis (Big-O, time/space trade-offs)
 - Arrays & Strings
 - Recursion & Backtracking
 - Linked Lists
